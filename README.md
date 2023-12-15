@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Blade</h1>
 
 ## 💫 About Me:
-Passionate and self-thaught developer from Argentina
+Passionate and self-taught developer from Argentina
 
 
 ## 💻 Tech Stack:
